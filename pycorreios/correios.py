@@ -29,6 +29,7 @@ class Correios(object):
         self.PAC = 41106
         self.SEDEX = 40010
         self.SEDEX_10 = 40215
+        self.SEDEX_12 = 40169
         self.SEDEX_HOJE = 40290
         self.E_SEDEX = 81019
         self.OTE = 44105
